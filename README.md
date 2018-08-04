@@ -1,6 +1,6 @@
 # intro-data-capstone-musclehub
 
-This project was completed as a Capstone for Codecademy's Introduction to Data Analysis. Please find the project description below:
+This project was completed for Codecademy's Introduction to Data Analysis Pro Intensive Course. Please find the project description below:
 
 You've been hired to help MuscleHub, a fancy gym, run an A/B test!
 
